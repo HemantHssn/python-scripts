@@ -4,10 +4,10 @@ from datetime import datetime
 import time
 from webdriver_manager.chrome import ChromeDriverManager
 
-username = "4NI20EE030"
-password_date = 22
-password_month = "Jan"
-password_year = 2002
+username = "4NI20EExyz"
+password_date = DD
+password_month = "MON"
+password_year = YEAR
 
 browser = webdriver.Chrome(ChromeDriverManager().install())
 

@@ -11,9 +11,9 @@ import getpass
 
   
 # Replace these values with your actual login credentials
-username = "chethan.sk@nokia.com"
+username = "abcd@xyz.com"
 password = getpass.getpass("enter your password:\n")
-# print(password)------->>>Omygod@123
+# print(password)------->>>"_________"
 # Create a new instance of the Chrome browser with the driver path managed by webdriver_manager
 browser = webdriver.Chrome(ChromeDriverManager().install())
 
