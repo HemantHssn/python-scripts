@@ -12,7 +12,7 @@ for i in range(n):
     print(pattern)
 
 # print((n+1)*" * ")
-print("====== pattern : 4 ======")
+print("====== pattern : 3 ======")
 for i in range(n):
     pattern = (n-i)*" * " + i*"   "
     print(pattern)
